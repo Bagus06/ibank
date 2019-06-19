@@ -5,7 +5,6 @@
 		<div class="row">
 			<div class="col-12">
 				<!-- Email Area -->
-				<!-- kings -->
 				<div class="compose-email--area bg-boxshadow">
 					<div class="row">
 						<div class="col-lg-3">
